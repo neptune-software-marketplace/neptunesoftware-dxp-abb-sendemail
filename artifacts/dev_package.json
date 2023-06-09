@@ -1,0 +1,61 @@
+{
+	"id": "43303a8e-c706-ee11-907c-000d3ab76cc2",
+	"createdAt": "2023-06-09T13:14:27.136Z",
+	"createdBy": "gabriel.andrade@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-sendemail"
+	},
+	"name": "SendEmail",
+	"description": "Generic E-mail Send",
+	"ver": "23.6.9.1325",
+	"enableCICD": true,
+	"apps": [],
+	"api": [
+		{
+			"id": "94c76493-00fc-ed11-907c-000d3a654fb6",
+			"name": "SendEmailGeneric",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "ee8450c9-fffb-ed11-907c-000d3a654fb6",
+			"name": "SendEmail",
+			"description": "Send e-mail from API"
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "bf04ecb3-fffb-ed11-907c-000d3a654fb6",
+			"name": "SendEmailGeneric",
+			"description": null
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

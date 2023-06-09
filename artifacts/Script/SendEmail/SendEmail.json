@@ -1,0 +1,20 @@
+{
+	"id": "ee8450c9-fffb-ed11-907c-000d3a654fb6",
+	"createdAt": "2023-05-26T19:59:14.130Z",
+	"createdBy": "gabriel.andrade@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "SendEmail",
+	"ver": "23.6.9.1316",
+	"description": "Send e-mail from API",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "bf04ecb3-fffb-ed11-907c-000d3a654fb6",
+	"package": "43303a8e-c706-ee11-907c-000d3ab76cc2"
+}
